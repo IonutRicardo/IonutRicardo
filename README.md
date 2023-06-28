@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ionnutzz
 - 👀 I am interested in web programming.
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: ionnutz on discord
+- 📫 How to reach me: ionnutz on [Instagram](https://www.instagram.com/ionnutz028/)
 
 <!---
 ionnutzz/ionnutzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
