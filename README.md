@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ionut Ricardo.
+- 🌙 Learning Web Development (HTML, CSS, JavaScript).
 - 📫 How to reach me: ionnutz on discord, [Instagram](https://www.instagram.com/ionnutz028/), [Twitter](https://twitter.com/ionnutz28).
 - 😄 Pronouns: he/him.
 
